@@ -1,0 +1,42 @@
+html, body {width: fit-content; height: fit-content}
+
+.notifyjs-corner {
+	width: 98%
+}
+
+.TTS .card {
+	box-shadow: 0px;
+	margin: 0px 0px 0px 0px;
+}
+.Hidden {
+	display: none;
+}
+
+.UiX input[type=text] {
+	width: 300px;
+}
+
+.input-group input {
+    border-bottom-right-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-right: 0px !important;
+}
+
+.input-group i {
+    border-left: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.container {
+	margin-top: 0px;
+}

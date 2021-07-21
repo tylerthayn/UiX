@@ -1,0 +1,16 @@
+{
+	"css": [
+		"D:\\GITHUB\\UiX\\src\\components\\Confirm\\Confirm.css"
+	],
+	"html": [
+		"D:\\GITHUB\\UiX\\src\\components\\Confirm\\Confirm.html"
+	],
+	"js": [
+		"D:\\GITHUB\\UiX\\src\\components\\Confirm\\Confirm.js"
+	],
+	"options": {
+		"name": "Confirm",
+		"title": "Confirmation",
+		"text": "Do you confirm?"
+	}
+}

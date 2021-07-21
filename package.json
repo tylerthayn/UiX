@@ -1,0 +1,29 @@
+{
+  "name": "UiX",
+  "description": "External Ui Components",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "bin": {
+     "UiX": "src/main.js"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "start": "electron .",
+ 	"postinstall": "copy /V bin\\UiX.cmd C:\\NodeJs\\UiX.cmd"
+  },
+  "dependencies": {
+   "electron": "^11.2.3",
+     "commander": "^8.0.0",
+    "jquery": "^3.6.0",
+    "lodash-tts": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    ""
+  ],
+  "build": {
+    "appId": "UiX"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"options": {
+		"name": "FileOpen",
+		"title": "Open",
+		"defaultPath": "D:\\GITHUB\\UiX",
+		"filters": [],
+		"properties": [
+			"openFile",
+			"multiSelection",
+			"showHiddenFiles",
+			"promptToCreate",
+			"dontAddToRecent"
+		]
+	}
+}
